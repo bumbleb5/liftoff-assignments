@@ -13,6 +13,4 @@ https://github.com/bumbleb5
 https://www.linkedin.com/in/kelli-rains/
 
 ### Resume
-You will need to upload a .PDF of your resume to this repo, or connect with your mentor on an alternate way of submitting your resume.
-
-> *Your GitHub repository is public* if you do not want to upload your resume to a public facing repository, talk with your mentor about an alternate way to submit this assignment.
+https://github.com/bumbleb5/liftoff-assignments/blob/master/C1-Online_Profiles/Kelli%20Rains%20Resume.pdf
